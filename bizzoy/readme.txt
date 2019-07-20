@@ -1,6 +1,6 @@
 === Bizzoy ===
 
-Contributors:
+Contributors:lunartemplate
 Tags: right-sidebar, custom-logo, custom-menu, custom-header, editor-style,  footer-widgets, theme-options, translation-ready, threaded-comments
 Requires at least: 4.4
 Requires PHP: 5.2.4
@@ -10,7 +10,7 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
-Bizzoy WordPress Theme, Copyright (C) 2019,
+Bizzoy WordPress Theme, Copyright (C) 2019,lunartemplate
 Bizzoy is distributed under the terms of the GNU General Public License v3
 
 Corporate Business WordPress Theme
