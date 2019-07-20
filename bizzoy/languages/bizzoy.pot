@@ -1,0 +1,383 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: The Score\n"
+"POT-Creation-Date: 2019-07-16 11:04+0530\n"
+"PO-Revision-Date: 2019-03-24 04:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13 include/template-functions.php:167
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "Nothig Found"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"Back To Home\n"
+"                      "
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:58
+msgid "primary Menu"
+msgstr ""
+
+#: home-page.php:134 include/breadcrumbs.php:51 include/breadcrumbs.php:54
+msgid "Home"
+msgstr ""
+
+#: home-page.php:252 template-parts/content.php:14
+msgid "By"
+msgstr ""
+
+#: home-page.php:271 template-parts/content.php:40
+msgid "Read More"
+msgstr ""
+
+#: include/breadcrumbs.php:57
+msgid "Archive by category"
+msgstr ""
+
+#: include/breadcrumbs.php:61 include/breadcrumbs.php:62
+#: include/breadcrumbs.php:67 include/breadcrumbs.php:72
+msgid "Y"
+msgstr ""
+
+#: include/breadcrumbs.php:62
+msgid "m"
+msgstr ""
+
+#: include/breadcrumbs.php:62 include/breadcrumbs.php:68
+msgid "F"
+msgstr ""
+
+#: include/breadcrumbs.php:63
+msgid "d"
+msgstr ""
+
+#: include/breadcrumbs.php:107
+msgid "Error 404"
+msgstr ""
+
+#: include/customizer.php:23
+msgid "Show"
+msgstr ""
+
+#: include/customizer.php:24
+msgid "Hide"
+msgstr ""
+
+#: include/customizer.php:94
+msgid "Bizzoy Theme Options"
+msgstr ""
+
+#: include/customizer.php:114
+msgid "Preloader section"
+msgstr ""
+
+#: include/customizer.php:133
+msgid "Enable/disable Preloader Option"
+msgstr ""
+
+#: include/customizer.php:134 include/sections/blog.php:34
+msgid "Show/hide option for Blog Section."
+msgstr ""
+
+#: include/sections/blog.php:14
+msgid "Home Blog Section"
+msgstr ""
+
+#: include/sections/blog.php:33
+msgid "Blog Option"
+msgstr ""
+
+#: include/sections/blog.php:51
+msgid "Blog Title"
+msgstr ""
+
+#: include/sections/callout.php:20
+msgid "Home Callout Section"
+msgstr ""
+
+#: include/sections/callout.php:40
+msgid "Home Callout"
+msgstr ""
+
+#: include/sections/callout.php:41
+msgid "Show/hide option for Footer Callout Section."
+msgstr ""
+
+#: include/sections/callout.php:60
+msgid "Callout Text"
+msgstr ""
+
+#: include/sections/callout.php:79
+msgid "Button URL"
+msgstr ""
+
+#: include/sections/callout.php:97
+msgid "Button Text"
+msgstr ""
+
+#: include/sections/footer.php:14
+msgid "Footer Section"
+msgstr ""
+
+#: include/sections/footer.php:30
+msgid "Footer Option"
+msgstr ""
+
+#: include/sections/footer.php:31
+msgid "Show/hide option for Footer Section."
+msgstr ""
+
+#: include/sections/footer.php:46
+msgid "Copyright"
+msgstr ""
+
+#: include/sections/footer.php:62
+msgid "Social icon "
+msgstr ""
+
+#: include/sections/services.php:15
+msgid "Home Service Section"
+msgstr ""
+
+#: include/sections/services.php:35
+msgid "Services Option"
+msgstr ""
+
+#: include/sections/services.php:36
+msgid "Show/hide option Section."
+msgstr ""
+
+#: include/sections/services.php:56
+msgid "service Title"
+msgstr ""
+
+#: include/sections/services.php:82
+msgid "Service Icon "
+msgstr ""
+
+#: include/sections/services.php:99
+msgid "Service Page "
+msgstr ""
+
+#: include/sections/slider.php:16
+msgid "Home Slider Section"
+msgstr ""
+
+#: include/sections/slider.php:37
+msgid "Slider Option"
+msgstr ""
+
+#: include/sections/slider.php:38
+msgid "Show/hide option for Slider Section."
+msgstr ""
+
+#: include/sections/slider.php:63
+msgid "Slider Page "
+msgstr ""
+
+#: include/sections/slider.php:80
+msgid "Button - Text"
+msgstr ""
+
+#: include/sections/slider.php:96
+msgid "Button - URL"
+msgstr ""
+
+#: include/sections/slider.php:113
+msgid "Button - Text2"
+msgstr ""
+
+#: include/sections/slider.php:129
+msgid "Button - URL2"
+msgstr ""
+
+#: include/sections/top-header.php:13
+msgid "Header Section"
+msgstr ""
+
+#: include/sections/top-header.php:33
+msgid "Header Option"
+msgstr ""
+
+#: include/sections/top-header.php:34
+msgid "Show/hide option for Header Section."
+msgstr ""
+
+#: include/sections/top-header.php:56
+msgid "Quote URL"
+msgstr ""
+
+#: include/sections/top-header.php:72
+msgid "quote Text"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: include/template-functions.php:21
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: include/template-functions.php:25
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr ""
+
+#: include/template-functions.php:78
+msgid "Blog Sidebar"
+msgstr ""
+
+#: include/template-functions.php:80
+msgid "Sidebar on the blog layout."
+msgstr ""
+
+#: include/template-functions.php:91
+msgid "Footer Widget Area"
+msgstr ""
+
+#: include/template-functions.php:93
+msgid "The footer widget area"
+msgstr ""
+
+#: include/template-functions.php:107
+msgid "Archive"
+msgstr ""
+
+#: include/template-functions.php:113 include/template-functions.php:117
+#: include/template-functions.php:121 include/template-functions.php:127
+#: include/template-functions.php:133 include/template-functions.php:139
+#: include/template-functions.php:145 include/template-functions.php:161
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: include/template-functions.php:125
+msgid "Category"
+msgstr ""
+
+#: include/template-functions.php:131
+msgid "All posts by"
+msgstr ""
+
+#: include/template-functions.php:137
+msgid "Tag"
+msgstr ""
+
+#: include/template-functions.php:143
+msgid "Shop"
+msgstr ""
+
+#: include/template-functions.php:157
+msgid "Search results for"
+msgstr ""
+
+#. translators: %s: post title
+#: include/template-tags.php:67
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: include/template-tags.php:84
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: lib/footer-main.php:63
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: WordPress.
+#: lib/footer-main.php:66
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: lib/header-main.php:41
+msgid "Add a menu"
+msgstr ""
+
+#: lib/header-main.php:70
+msgid "search here"
+msgstr ""
+
+#: page.php:31
+msgid "Pages: "
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:26
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-single.php:37 template-parts/content.php:28
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bizzoy"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "error"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""
